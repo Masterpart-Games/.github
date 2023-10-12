@@ -6,7 +6,7 @@ Masterpart Games es un estudio de videojuegos independiente. Nos especializamos 
 
 ## Nuestros juegos
 
-- **Fommy**. Es un juego totalmente diseñado para niños, el juego se centra en el ordenamiento de figuras, de tal manera que se te presentaran 4 grupos de figuras de un color en específico, en la pantalla irán apareciendo figuras de algún color aleatorio, por lo que tu deberás poner la figura en la columna que le corresponde y cambiarle el color hasta que coincida con el que debe ser según la pila correspondiente, de esta manera se te sumarán puntos y podrás ir ganando recompensas al alcanzar ciertos puntajes, al fallar 3 veces al color y/o a la forma perderás la partida y podrás volver a reiniciar, el objetivo es conseguir la mayor cantidad de puntos y superar tu propio record. [Link a playstore](https://play.google.com/store/apps/details?id=com.MasterpartGames.Fommy)
+- **Fommy**. Es un juego centrado en el ordenamiento de figuras, de tal manera que se te presentan 4 cajas de figuras de un color y forma específica, en la pantalla irán apareciendo figuras de algún color y forma aleatoria, por lo que tu deberás poner la figura en la caja que le corresponde y cambiarle el color hasta que coincida con el que debe ser según la pila correspondiente, de esta manera se te sumarán puntos y podrás ir ganando recompensas al alcanzar ciertos puntajes, al fallar 3 veces al color y/o a la forma perderás la partida y podrás volver a reiniciar, el objetivo es conseguir la mayor cantidad de puntos y superar tu propio record. [Link a playstore](https://play.google.com/store/apps/details?id=com.MasterpartGames.Fommy)
 
 ## Nuestro equipo
 
